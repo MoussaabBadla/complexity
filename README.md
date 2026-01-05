@@ -1,9 +1,9 @@
 # Advanced Algorithms and Complexity - Master 1 IL
 
-**University:** USTHB - Faculty of Computer Science
-**Module:** Advanced Algorithms and Complexity
-**Student:** Badla Moussaab - 212135027684
-**Academic Year:** 2025-2026
+- **University:** USTHB - Faculty of Computer Science
+- **Module:** Advanced Algorithms and Complexity
+- **Student:** Badla Moussaab 
+- **Academic Year:** 2025-2026
 
 ---
 
