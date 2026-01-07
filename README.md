@@ -11,7 +11,7 @@
 
 ```
 project/
-├── Sorting-algorithms-main/    # Mini-Project: Sorting Algorithms
+├── mini-project/    # Mini-Project: Sorting Algorithms
 │   ├── src/                    # Algorithm implementations
 │   ├── graphs/                 # Performance graphs
 │   ├── REPORT.md              # Markdown report
@@ -50,7 +50,7 @@ Implementation and comparative analysis of **7 sorting algorithms** in C:
 - Best/Worst/Random case testing
 
 ### Location
-`Sorting-algorithms-main/`
+`mini-project/`
 
 ---
 
