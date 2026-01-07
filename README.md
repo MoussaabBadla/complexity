@@ -159,20 +159,6 @@ cd tp/lab-5/src && gcc -O2 -o iterative_recursive iterative_recursive.c -lm
 ./program_name -csv     # CSV output for graphing
 ```
 
-### Generate Graphs
-```bash
-cd tp
-python3 -m venv venv
-source venv/bin/activate
-pip install pandas matplotlib
-python3 generate_all_graphs.py
-```
-
-### Convert Reports to PDF
-```bash
-pip install weasyprint markdown
-python3 convert_all_to_pdf.py
-```
 
 ---
 
@@ -196,15 +182,6 @@ Each lab contains:
 | Search (sorted) | Binary Search | O(log n) |
 | MaxMin | Efficient (pairs) | ~3n/2 |
 | Matrix Multiply | Standard | O(n³) |
-
----
-
-## Key Learnings
-
-1. **Optimization matters:** A4 vs A1 for primality shows √N improvement
-2. **Algorithm choice depends on data:** Radix Sort beats comparison sorts for integers
-3. **Recursion has costs:** Fibonacci recursive is exponentially slower
-4. **Theoretical matches experimental:** All benchmarks confirm Big-O predictions
 
 ---
 
